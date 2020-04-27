@@ -40,7 +40,7 @@ user_groups:
 - Visitors
 ---
 
-Hi, I’m Natalia Block! I’m a research and data analyst, currently specializing in Data Science. I’m a Program Assistant at the All Stars Project of Chicago and a Research Collaborator at Doxa, Laboratory of Electoral Studies, Political Communication and Public Opinion at Rio de Janeiro State University. I have experience on academia, think thanks and non-profit organizations conducting research and data analysis on elections and electoral statistics, political behavior and institutions. 
+Hi, I’m Natalia Block! I’m a research and data analyst, currently specializing in Data Science. I’m a Program Assistant at the All Stars Project of Chicago and a Research Collaborator at Doxa, Laboratory of Electoral Studies, Political Communication and Public Opinion at Rio de Janeiro State University. I have experience on academia, think tanks and non-profit organizations conducting research and data analysis on elections and electoral statistics, political behavior and institutions. 
 
 Lately I’ve been dedicated to developing tools and resources for learning and teaching R in Portuguese. More broadly, I’ve been studying accessible ways to introduce programming and statistics to social science students and researchers from Portuguese speaking countries.
 
