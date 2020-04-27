@@ -19,6 +19,7 @@ interests:
 - Computational Social Science
 - Learning and Community Building in Data Science
 - Technology and Society
+- Comparative Politics 
 organizations:
 - name: 
   url: ""
