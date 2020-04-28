@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/nataliablock/my_website", content_di
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email= " "
+email= "nrmblock@gmail.com"
 phone = ""
 
 # Address
