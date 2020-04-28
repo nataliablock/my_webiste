@@ -8,6 +8,7 @@ tags:
   - R
   - Events
   - Collaborations & Tips
+  - Community Building
 subtitle: ''
 summary: 'Sharing some thoughts on how to make the most of this kind of event, specially if you are a newbie.'
 authors: []
